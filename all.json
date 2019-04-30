@@ -1,0 +1,2502 @@
+// 20190430150806
+// http://localhost:8000/api/recipes/all
+
+[
+  {
+    "_id": "5c8ab3aa8e9f1585c4a747c1",
+    "name": "Easy Onion Soup",
+    "image": "https://www.edamam.com/web-img/7b6/7b605b65e30bfa2881ace03206c0cae2.jpg",
+    "source": "BBC Good Food",
+    "url": "http://www.bbcgoodfood.com/recipes/5950/",
+    "yield": 4,
+    "calories": 817.738713,
+    "totalWeight": 2166.6489,
+    "totalTime": 0,
+    "__v": 0,
+    "ingredients": [
+      {
+        "text": "900 ml water",
+        "weight": 900,
+        "_id": "5c8ab3aa8e9f1585c4a747cc"
+      },
+      {
+        "text": "15 g Butter - or oil",
+        "weight": 15,
+        "_id": "5c8ab3aa8e9f1585c4a747cb"
+      },
+      {
+        "text": "1 Table spoon mixed random herbs - coriander, parsley, dill",
+        "weight": 3.1,
+        "_id": "5c8ab3aa8e9f1585c4a747ca"
+      },
+      {
+        "text": "Salt and pepper",
+        "weight": 10.7526,
+        "_id": "5c8ab3aa8e9f1585c4a747c9"
+      },
+      {
+        "text": "Salt and pepper",
+        "weight": 5.3763,
+        "_id": "5c8ab3aa8e9f1585c4a747c8"
+      },
+      {
+        "text": "1 Carrot, sliced",
+        "weight": 61,
+        "_id": "5c8ab3aa8e9f1585c4a747c7"
+      },
+      {
+        "text": "2 tea spoons brown sugar - can use white",
+        "weight": 6,
+        "_id": "5c8ab3aa8e9f1585c4a747c6"
+      },
+      {
+        "text": "2 Cloves of garlic, crushed",
+        "weight": 6,
+        "_id": "5c8ab3aa8e9f1585c4a747c5"
+      },
+      {
+        "text": "3 Onions, shredded",
+        "weight": 375,
+        "_id": "5c8ab3aa8e9f1585c4a747c4"
+      },
+      {
+        "text": "2 'Good sized' potatoes, cubed",
+        "weight": 426,
+        "_id": "5c8ab3aa8e9f1585c4a747c3"
+      },
+      {
+        "text": "2 Vegatable stock cubes",
+        "weight": 358.42,
+        "_id": "5c8ab3aa8e9f1585c4a747c2"
+      }
+    ],
+    "ingredientLines": [
+      "900 ml water",
+      "15 g Butter - or oil",
+      "1 Table spoon mixed random herbs - coriander, parsley, dill",
+      "Salt and pepper",
+      "1 Carrot, sliced",
+      "2 tea spoons brown sugar - can use white",
+      "2 Cloves of garlic, crushed",
+      "3 Onions, shredded",
+      "2 'Good sized' potatoes, cubed",
+      "2 Vegatable stock cubes"
+    ],
+    "cautions": [
+      "Sulfites"
+    ],
+    "healthLabels": [
+      "Peanut-Free",
+      "Tree-Nut-Free",
+      "Alcohol-Free"
+    ],
+    "dietLabels": [
+      
+    ]
+  },
+  {
+    "_id": "5c8ab3cd8e9f1585c4a747cd",
+    "name": "Zucchini Salad With Ajo Blanco Dressing & Spiced Nuts",
+    "image": "https://www.edamam.com/web-img/553/5539673ad9e754a206fcd971300d28eb.jpg",
+    "source": "Epicurious",
+    "url": "https://www.epicurious.com/recipes/food/views/zucchini-salad-with-ajo-blanco-dressing-spiced-nuts-56389847",
+    "yield": 2,
+    "calories": 3209.7258175642114,
+    "totalWeight": 1172.6518280443545,
+    "totalTime": 0,
+    "__v": 0,
+    "ingredients": [
+      {
+        "text": "3 to 4 slices white bread, crusts removed",
+        "weight": 101.5,
+        "_id": "5c8ab3cd8e9f1585c4a747dc"
+      },
+      {
+        "text": "3/4 cup blanched almonds, roughly chopped",
+        "weight": 108.75,
+        "_id": "5c8ab3cd8e9f1585c4a747db"
+      },
+      {
+        "text": "1 garlic clove, peeled",
+        "weight": 3,
+        "_id": "5c8ab3cd8e9f1585c4a747da"
+      },
+      {
+        "text": "1 teaspoon sherry vinegar",
+        "weight": 5,
+        "_id": "5c8ab3cd8e9f1585c4a747d9"
+      },
+      {
+        "text": "1 cup extra-virgin olive oil",
+        "weight": 216,
+        "_id": "5c8ab3cd8e9f1585c4a747d8"
+      },
+      {
+        "text": "1/3 cup ice-cold water",
+        "weight": 79,
+        "_id": "5c8ab3cd8e9f1585c4a747d7"
+      },
+      {
+        "text": "3 medium zucchinis, cut into random pieces",
+        "weight": 588,
+        "_id": "5c8ab3cd8e9f1585c4a747d6"
+      },
+      {
+        "text": "1/2 ounce hazelnuts, chopped",
+        "weight": 14.1747615625,
+        "_id": "5c8ab3cd8e9f1585c4a747d5"
+      },
+      {
+        "text": "1/2 ounce blanched almonds, chopped",
+        "weight": 14.1747615625,
+        "_id": "5c8ab3cd8e9f1585c4a747d4"
+      },
+      {
+        "text": "1/2 ounce walnuts, chopped",
+        "weight": 14.1747615625,
+        "_id": "5c8ab3cd8e9f1585c4a747d3"
+      },
+      {
+        "text": "Pinch of smoked paprika",
+        "weight": 0.1416666668486988,
+        "_id": "5c8ab3cd8e9f1585c4a747d2"
+      },
+      {
+        "text": "1 small handful flat-leaf (Italian) parsley, washed and chopped",
+        "weight": 11.25,
+        "_id": "5c8ab3cd8e9f1585c4a747d1"
+      },
+      {
+        "text": "1 small handful mint, washed and chopped",
+        "weight": 8.55,
+        "_id": "5c8ab3cd8e9f1585c4a747d0"
+      },
+      {
+        "text": "Freshly ground black pepper",
+        "weight": 3.491147854063046,
+        "_id": "5c8ab3cd8e9f1585c4a747cf"
+      },
+      {
+        "text": "Salt to taste",
+        "weight": 6.982295708126092,
+        "_id": "5c8ab3cd8e9f1585c4a747ce"
+      }
+    ],
+    "ingredientLines": [
+      "3 to 4 slices white bread, crusts removed",
+      "3/4 cup blanched almonds, roughly chopped",
+      "1 garlic clove, peeled",
+      "1 teaspoon sherry vinegar",
+      "1 cup extra-virgin olive oil",
+      "1/3 cup ice-cold water",
+      "3 medium zucchinis, cut into random pieces",
+      "1/2 ounce hazelnuts, chopped",
+      "1/2 ounce blanched almonds, chopped",
+      "1/2 ounce walnuts, chopped",
+      "Pinch of smoked paprika",
+      "1 small handful flat-leaf (Italian) parsley, washed and chopped",
+      "1 small handful mint, washed and chopped",
+      "Freshly ground black pepper",
+      "Salt to taste"
+    ],
+    "cautions": [
+      "FODMAP"
+    ],
+    "healthLabels": [
+      "Vegan",
+      "Vegetarian",
+      "Peanut-Free",
+      "Alcohol-Free"
+    ],
+    "dietLabels": [
+      "Low-Carb"
+    ]
+  },
+  {
+    "_id": "5c8ab4538e9f1585c4a747e6",
+    "name": "Spiced Fennel Salad With Creme Fraiche And Meyer Lemon",
+    "image": "https://www.edamam.com/web-img/bf9/bf97635e4ab70abf5e06f9b3678bc923.jpg",
+    "source": "Not Eating Out In New York",
+    "url": "http://noteatingoutinny.com/2010/03/05/spiced-fennel-salad-with-creme-fraiche-and-meyer-lemon/",
+    "yield": 3,
+    "calories": 377.42856250210673,
+    "totalWeight": 492.9187500004866,
+    "totalTime": 0,
+    "__v": 0,
+    "ingredients": [
+      {
+        "text": "1 large bulb fennel, cored and finely sliced (reserve stalks for making soup stocks)",
+        "weight": 292.5,
+        "_id": "5c8ab4538e9f1585c4a747ee"
+      },
+      {
+        "text": "2-3 tablespoons fennel fronds, chopped",
+        "weight": 13.593749999770171,
+        "_id": "5c8ab4538e9f1585c4a747ed"
+      },
+      {
+        "text": "1/2 teaspoon each whole cumin seeds and coriander seeds, coarsely crushed (with a mortar and pestle, or random kitchen-tool improvisation of which)",
+        "weight": 1.05,
+        "_id": "5c8ab4538e9f1585c4a747ec"
+      },
+      {
+        "text": "1/2 teaspoon each whole cumin seeds and coriander seeds, coarsely crushed (with a mortar and pestle, or random kitchen-tool improvisation of which)",
+        "weight": 0.9,
+        "_id": "5c8ab4538e9f1585c4a747eb"
+      },
+      {
+        "text": "1 Meyer lemon, zest grated and cut into individual sections, without any peel or pith (skip this second part if substituting with regular lemons, and just add its juice to taste)",
+        "weight": 58,
+        "_id": "5c8ab4538e9f1585c4a747ea"
+      },
+      {
+        "text": "about 1/2 cup creme fraiche",
+        "weight": 112,
+        "_id": "5c8ab4538e9f1585c4a747e9"
+      },
+      {
+        "text": "2 teaspoons honey",
+        "weight": 14.125000000716435,
+        "_id": "5c8ab4538e9f1585c4a747e8"
+      },
+      {
+        "text": "pinch of salt",
+        "weight": 0.75,
+        "_id": "5c8ab4538e9f1585c4a747e7"
+      }
+    ],
+    "ingredientLines": [
+      "1 large bulb fennel, cored and finely sliced (reserve stalks for making soup stocks)",
+      "2-3 tablespoons fennel fronds, chopped",
+      "1/2 teaspoon each whole cumin seeds and coriander seeds, coarsely crushed (with a mortar and pestle, or random kitchen-tool improvisation of which)",
+      "1 Meyer lemon, zest grated and cut into individual sections, without any peel or pith (skip this second part if substituting with regular lemons, and just add its juice to taste)",
+      "about 1/2 cup creme fraiche",
+      "2 teaspoons honey",
+      "pinch of salt"
+    ],
+    "cautions": [
+      "Sulfites"
+    ],
+    "healthLabels": [
+      "Peanut-Free",
+      "Tree-Nut-Free",
+      "Alcohol-Free"
+    ],
+    "dietLabels": [
+      
+    ]
+  },
+  {
+    "_id": "5c8ab4af8e9f1585c4a747fc",
+    "name": "Chicken Tamale Pie recipes",
+    "image": "https://www.edamam.com/web-img/f7b/f7b4d6565986815f6440395ed2e236af",
+    "source": "Pinch of Yum",
+    "url": "http://pinchofyum.com/chicken-tamale-pie",
+    "yield": 8,
+    "calories": 2454.0936675024104,
+    "totalWeight": 1564.2416525194762,
+    "totalTime": 60,
+    "__v": 0,
+    "ingredients": [
+      {
+        "text": "⅓ cup fat free milk",
+        "weight": 82.33333333333333,
+        "_id": "5c8ab4af8e9f1585c4a74808"
+      },
+      {
+        "text": "¼ cup egg substitute",
+        "weight": 32.05,
+        "_id": "5c8ab4af8e9f1585c4a74807"
+      },
+      {
+        "text": "1½ tablespoon taco seasoning, divided",
+        "weight": 12.824999999132672,
+        "_id": "5c8ab4af8e9f1585c4a74806"
+      },
+      {
+        "text": "¼ teaspoon ground red pepper",
+        "weight": 0.7760416667060283,
+        "_id": "5c8ab4af8e9f1585c4a74805"
+      },
+      {
+        "text": "1 (14¾ ounce) can cream-style corn",
+        "weight": 418.15546609375,
+        "_id": "5c8ab4af8e9f1585c4a74804"
+      },
+      {
+        "text": "1 (8.5 ounce) box corn muffin mix (such as Jiffy)",
+        "weight": 240.97094656250002,
+        "_id": "5c8ab4af8e9f1585c4a74803"
+      },
+      {
+        "text": "1 (4 ounce) can chopped green chiles, drained",
+        "weight": 113.3980925,
+        "_id": "5c8ab4af8e9f1585c4a74802"
+      },
+      {
+        "text": "1 (10 ounce) can red enchilada sauce - I recommend going with an authentic Mexican brand",
+        "weight": 283.49523125,
+        "_id": "5c8ab4af8e9f1585c4a74801"
+      },
+      {
+        "text": "2 cups shredded cooked chicken breast",
+        "weight": 280,
+        "_id": "5c8ab4af8e9f1585c4a74800"
+      },
+      {
+        "text": "¾ cup shredded white cheese (I used Raclette - random, I know, but it's what I had on hand, and it ended up being delicious!)",
+        "weight": 84.75,
+        "_id": "5c8ab4af8e9f1585c4a747ff"
+      },
+      {
+        "text": "cilantro",
+        "weight": 15.48754111405422,
+        "_id": "5c8ab4af8e9f1585c4a747fe"
+      },
+      {
+        "text": "cotija",
+        "weight": 0,
+        "_id": "5c8ab4af8e9f1585c4a747fd"
+      }
+    ],
+    "ingredientLines": [
+      "⅓ cup fat free milk",
+      "¼ cup egg substitute",
+      "1½ tablespoon taco seasoning, divided",
+      "¼ teaspoon ground red pepper",
+      "1 (14¾ ounce) can cream-style corn",
+      "1 (8.5 ounce) box corn muffin mix (such as Jiffy)",
+      "1 (4 ounce) can chopped green chiles, drained",
+      "1 (10 ounce) can red enchilada sauce - I recommend going with an authentic Mexican brand",
+      "2 cups shredded cooked chicken breast",
+      "¾ cup shredded white cheese (I used Raclette - random, I know, but it's what I had on hand, and it ended up being delicious!)",
+      "cilantro",
+      "cotija"
+    ],
+    "cautions": [
+      "Sulfites",
+      "FODMAP"
+    ],
+    "healthLabels": [
+      "Peanut-Free",
+      "Tree-Nut-Free",
+      "Alcohol-Free"
+    ],
+    "dietLabels": [
+      
+    ]
+  },
+  {
+    "_id": "5c8ab5838e9f1585c4a74817",
+    "name": "Grilled Eggplant and Roasted Tomato Sliders with Spicy Tahini",
+    "image": "https://www.edamam.com/web-img/dbe/dbec23327820169d273d3a325f6cb307.jpg",
+    "source": "Rachael Ray",
+    "url": "http://www.rachaelray.com/recipe/grilled-eggplant-and-roasted-tomato-sliders-with-spicy-tahini/",
+    "yield": 8,
+    "calories": 1975.9938776380104,
+    "totalWeight": 1180.6343715638657,
+    "totalTime": 0,
+    "__v": 0,
+    "ingredients": [
+      {
+        "text": "1/2 cup extra virgin olive oil (EVOO)",
+        "weight": 108,
+        "_id": "5c8ab5838e9f1585c4a74824"
+      },
+      {
+        "text": "4 garlic cloves, smashed",
+        "weight": 12,
+        "_id": "5c8ab5838e9f1585c4a74823"
+      },
+      {
+        "text": "A few sprigs of fresh thyme",
+        "weight": 3,
+        "_id": "5c8ab5838e9f1585c4a74822"
+      },
+      {
+        "text": "1 small sprig of fresh rosemary",
+        "weight": 3.75,
+        "_id": "5c8ab5838e9f1585c4a74821"
+      },
+      {
+        "text": "2 tomatoes, cut into 1/2 inch slices (about 10-12 pieces)",
+        "weight": 246,
+        "_id": "5c8ab5838e9f1585c4a74820"
+      },
+      {
+        "text": "Salt and pepper",
+        "weight": 7.03177500000574,
+        "_id": "5c8ab5838e9f1585c4a7481f"
+      },
+      {
+        "text": "Salt and pepper",
+        "weight": 3.51588750000287,
+        "_id": "5c8ab5838e9f1585c4a7481e"
+      },
+      {
+        "text": "1 medium size eggplant, half peeled (random strips), cut into 1/2-inch round planks (about 10-12)",
+        "weight": 548,
+        "_id": "5c8ab5838e9f1585c4a7481d"
+      },
+      {
+        "text": "1/2 cup tahini",
+        "weight": 120.00000000202884,
+        "_id": "5c8ab5838e9f1585c4a7481c"
+      },
+      {
+        "text": "1 tablespoon black sesame seeds, toasted",
+        "weight": 9,
+        "_id": "5c8ab5838e9f1585c4a7481b"
+      },
+      {
+        "text": "1-2 tablespoons Sriracha hot sauce or harissa",
+        "weight": 21.149999998569665,
+        "_id": "5c8ab5838e9f1585c4a7481a"
+      },
+      {
+        "text": "1 teaspoon honey",
+        "weight": 7.0625000003582175,
+        "_id": "5c8ab5838e9f1585c4a74819"
+      },
+      {
+        "text": "2 cups romaine lettuce, chopped",
+        "weight": 94,
+        "_id": "5c8ab5838e9f1585c4a74818"
+      }
+    ],
+    "ingredientLines": [
+      "1/2 cup extra virgin olive oil (EVOO)",
+      "4 garlic cloves, smashed",
+      "A few sprigs of fresh thyme",
+      "1 small sprig of fresh rosemary",
+      "2 tomatoes, cut into 1/2 inch slices (about 10-12 pieces)",
+      "Salt and pepper",
+      "1 medium size eggplant, half peeled (random strips), cut into 1/2-inch round planks (about 10-12)",
+      "1/2 cup tahini",
+      "1 tablespoon black sesame seeds, toasted",
+      "1-2 tablespoons Sriracha hot sauce or harissa",
+      "1 teaspoon honey",
+      "2 cups romaine lettuce, chopped"
+    ],
+    "cautions": [
+      "Sulfites"
+    ],
+    "healthLabels": [
+      "Vegetarian",
+      "Peanut-Free",
+      "Tree-Nut-Free",
+      "Alcohol-Free"
+    ],
+    "dietLabels": [
+      "Low-Carb"
+    ]
+  },
+  {
+    "_id": "5c8ab59a8e9f1585c4a74825",
+    "name": "Tartufi",
+    "image": "https://www.edamam.com/web-img/785/7859cf2d8ece9a2d4dc4c4c7d2cfb212.jpg",
+    "source": "Serious Eats",
+    "url": "http://www.seriouseats.com/recipes/2011/07/tartufi-chocolate-covered-ice-cream-recipe.html",
+    "yield": 8,
+    "calories": 2096.7652386907234,
+    "totalWeight": 567.0628260402048,
+    "totalTime": 454,
+    "__v": 0,
+    "ingredients": [
+      {
+        "text": "2 cups (500 ml) ice cream",
+        "weight": 278.9656872902047,
+        "_id": "5c8ab59a8e9f1585c4a74829"
+      },
+      {
+        "text": "6 ounces (170 g) bittersweet or semisweet chocolate, chopped",
+        "weight": 170.09713875,
+        "_id": "5c8ab59a8e9f1585c4a74828"
+      },
+      {
+        "text": "6 tablespoons (85 g) unsalted butter, cut into pieces",
+        "weight": 85,
+        "_id": "5c8ab59a8e9f1585c4a74827"
+      },
+      {
+        "text": "1 1/2 tablespoons light corn syrup",
+        "weight": 33,
+        "_id": "5c8ab59a8e9f1585c4a74826"
+      }
+    ],
+    "ingredientLines": [
+      "2 cups (500 ml) ice cream",
+      "6 ounces (170 g) bittersweet or semisweet chocolate, chopped",
+      "6 tablespoons (85 g) unsalted butter, cut into pieces",
+      "1 1/2 tablespoons light corn syrup"
+    ],
+    "cautions": [
+      "Sulfites"
+    ],
+    "healthLabels": [
+      "Vegetarian",
+      "Peanut-Free",
+      "Tree-Nut-Free",
+      "Alcohol-Free"
+    ],
+    "dietLabels": [
+      
+    ]
+  },
+  {
+    "_id": "5c8ab79e8e9f1585c4a7483b",
+    "name": "Apricot Riesling Jam",
+    "image": "https://www.edamam.com/web-img/64b/64b8c5131f77af9fcb79fa499c03338b.jpg",
+    "source": "Simply Recipes",
+    "url": "http://www.simplyrecipes.com/recipes/apricot_riesling_jam/",
+    "yield": 8,
+    "calories": 2579.0466666666666,
+    "totalWeight": 1473.9333333333334,
+    "totalTime": 0,
+    "__v": 0,
+    "ingredients": [
+      {
+        "weight": 800,
+        "text": "5  of chopped apricots, pits discarded*",
+        "_id": "5c911815bb503237f48ad14c"
+      }
+    ],
+    "ingredientLines": [
+      "5 cups of chopped apricots, pits discarded*",
+      "2 + 3/4 cups of sugar",
+      "1/3 cup of Riesling (or Gewürztraminer)",
+      "5 tablespoons of lemon juice"
+    ],
+    "cautions": [
+      "Sulfites"
+    ],
+    "healthLabels": [
+      "Vegan",
+      "Vegetarian",
+      "Peanut-Free",
+      "Tree-Nut-Free"
+    ],
+    "dietLabels": [
+      "Low-Fat"
+    ]
+  },
+  {
+    "_id": "5c8ab7fa8e9f1585c4a74844",
+    "name": "Roasted Broccolini",
+    "image": "https://www.edamam.com/web-img/c91/c91fa33f7a447e21c8d10921d0cb4090.jpg",
+    "source": "Chowhound",
+    "url": "https://www.chowhound.com/recipes/roasted-broccollini-31859",
+    "yield": 6,
+    "calories": 853.1832960000002,
+    "totalWeight": 1863.8469453471075,
+    "totalTime": 0,
+    "__v": 0,
+    "ingredients": [
+      {
+        "text": "3 bunches broccolini",
+        "weight": 1824,
+        "_id": "5c8ab7fa8e9f1585c4a74848"
+      },
+      {
+        "text": "Good olive oil",
+        "weight": 24.8064,
+        "_id": "5c8ab7fa8e9f1585c4a74847"
+      },
+      {
+        "text": "Kosher salt and freshly ground black pepper",
+        "weight": 10.944,
+        "_id": "5c8ab7fa8e9f1585c4a74846"
+      },
+      {
+        "text": "Kosher salt and freshly ground black pepper",
+        "weight": 5.472,
+        "_id": "5c8ab7fa8e9f1585c4a74845"
+      }
+    ],
+    "ingredientLines": [
+      "3 bunches broccolini",
+      "Good olive oil",
+      "Kosher salt and freshly ground black pepper"
+    ],
+    "cautions": [
+      
+    ],
+    "healthLabels": [
+      "Vegan",
+      "Vegetarian",
+      "Peanut-Free",
+      "Tree-Nut-Free",
+      "Alcohol-Free"
+    ],
+    "dietLabels": [
+      
+    ]
+  },
+  {
+    "_id": "5c8ab82d8e9f1585c4a74849",
+    "name": "Preserved Lemon Ice Cream",
+    "image": "https://www.edamam.com/web-img/666/666e03b8d5cf990a77e91754a90f5472.jpg",
+    "source": "Food52",
+    "url": "https://food52.com/recipes/41876-preserved-lemon-ice-cream",
+    "yield": 12,
+    "calories": 3283.2400000000002,
+    "totalWeight": 1126.8920818411682,
+    "totalTime": 0,
+    "__v": 0,
+    "ingredients": [
+      {
+        "text": "4 large egg yolks",
+        "weight": 68,
+        "_id": "5c8ab82d8e9f1585c4a74852"
+      },
+      {
+        "text": "2 cups heavy cream",
+        "weight": 476,
+        "_id": "5c8ab82d8e9f1585c4a74851"
+      },
+      {
+        "text": "1 cup whole milk",
+        "weight": 244,
+        "_id": "5c8ab82d8e9f1585c4a74850"
+      },
+      {
+        "text": "1 cup granulated sugar",
+        "weight": 200,
+        "_id": "5c8ab82d8e9f1585c4a7484f"
+      },
+      {
+        "text": "1/4 cup freshly squeezed lemon juice",
+        "weight": 61,
+        "_id": "5c8ab82d8e9f1585c4a7484e"
+      },
+      {
+        "text": "3 tablespoons finely chopped preserved lemon rind",
+        "weight": 18,
+        "_id": "5c8ab82d8e9f1585c4a7484d"
+      },
+      {
+        "text": "1/2 teaspoon salt or to taste",
+        "weight": 3,
+        "_id": "5c8ab82d8e9f1585c4a7484c"
+      },
+      {
+        "text": "1/4 cup olive oil, plus a bit more to serve",
+        "weight": 54,
+        "_id": "5c8ab82d8e9f1585c4a7484b"
+      },
+      {
+        "text": "flaky sea salt, optional to serve",
+        "weight": 6.744,
+        "_id": "5c8ab82d8e9f1585c4a7484a"
+      }
+    ],
+    "ingredientLines": [
+      "4 large egg yolks",
+      "2 cups heavy cream",
+      "1 cup whole milk",
+      "1 cup granulated sugar",
+      "1/4 cup freshly squeezed lemon juice",
+      "3 tablespoons finely chopped preserved lemon rind",
+      "1/2 teaspoon salt or to taste",
+      "1/4 cup olive oil, plus a bit more to serve",
+      "flaky sea salt, optional to serve"
+    ],
+    "cautions": [
+      "Sulfites"
+    ],
+    "healthLabels": [
+      "Vegetarian",
+      "Peanut-Free",
+      "Tree-Nut-Free",
+      "Alcohol-Free"
+    ],
+    "dietLabels": [
+      
+    ]
+  },
+  {
+    "_id": "5c8ab92f8e9f1585c4a7485f",
+    "name": "Steam-Roasted Goose",
+    "image": "https://www.edamam.com/web-img/401/401fb69616dcdc75f78e842b4a961425.jpg",
+    "source": "Saveur",
+    "url": "http://www.saveur.com/article/Recipes/Steam-Roasted-Goose",
+    "yield": 6,
+    "__v": 0,
+    "ingredients": [
+      {
+        "text": "1 12-lb. goose, heart and gizzard reserved",
+        "weight": 5443.10844,
+        "_id": "5c8ab92f8e9f1585c4a7486a"
+      },
+      {
+        "text": "Salt and freshly ground black pepper",
+        "weight": 35.157650639998785,
+        "_id": "5c8ab92f8e9f1585c4a74869"
+      },
+      {
+        "text": "Salt and freshly ground black pepper",
+        "weight": 17.578825319999392,
+        "_id": "5c8ab92f8e9f1585c4a74868"
+      },
+      {
+        "text": "1 lemon, halved",
+        "weight": 58,
+        "_id": "5c8ab92f8e9f1585c4a74867"
+      },
+      {
+        "text": "3 sprigs fresh thyme",
+        "weight": 9,
+        "_id": "5c8ab92f8e9f1585c4a74866"
+      },
+      {
+        "text": "3 sprigs fresh sage",
+        "weight": 24,
+        "_id": "5c8ab92f8e9f1585c4a74865"
+      },
+      {
+        "text": "1 medium yellow onion, peeled and coarsely chopped",
+        "weight": 110,
+        "_id": "5c8ab92f8e9f1585c4a74864"
+      },
+      {
+        "text": "1 large carrot, peeled and coarsely chopped",
+        "weight": 72,
+        "_id": "5c8ab92f8e9f1585c4a74863"
+      },
+      {
+        "text": "2 stalks celery, coarsely chopped",
+        "weight": 80,
+        "_id": "5c8ab92f8e9f1585c4a74862"
+      },
+      {
+        "text": "1 1⁄2 tbsp. cornstarch",
+        "weight": 11.999999999797117,
+        "_id": "5c8ab92f8e9f1585c4a74861"
+      },
+      {
+        "text": "1⁄2 cup madeira",
+        "weight": 51.5,
+        "_id": "5c8ab92f8e9f1585c4a74860"
+      }
+    ],
+    "ingredientLines": [
+      "1 12-lb. goose, heart and gizzard reserved",
+      "Salt and freshly ground black pepper",
+      "1 lemon, halved",
+      "3 sprigs fresh thyme",
+      "3 sprigs fresh sage",
+      "1 medium yellow onion, peeled and coarsely chopped",
+      "1 large carrot, peeled and coarsely chopped",
+      "2 stalks celery, coarsely chopped",
+      "1 1⁄2 tbsp. cornstarch",
+      "1⁄2 cup madeira"
+    ],
+    "cautions": [
+      "Gluten",
+      "Wheat",
+      "Sulfites",
+      "FODMAP"
+    ],
+    "healthLabels": [
+      "Sugar-Conscious",
+      "Peanut-Free",
+      "Tree-Nut-Free"
+    ],
+    "dietLabels": [
+      "High-Protein",
+      "Low-Carb"
+    ]
+  },
+  {
+    "_id": "5c8ab96f8e9f1585c4a7486b",
+    "name": "Avocado Paletas",
+    "image": "https://www.edamam.com/web-img/a65/a651e07eae6eedf7b1a0d46540ebcdfc.jpg",
+    "source": "Serious Eats",
+    "url": "http://www.seriouseats.com/recipes/2011/08/avocado-paleta-ice-pop-dessert-recipe.html",
+    "yield": 8,
+    "calories": 877.0999999998699,
+    "totalWeight": 670.0499999994793,
+    "totalTime": 751,
+    "__v": 0,
+    "ingredients": [
+      {
+        "text": "1 cup water",
+        "weight": 237,
+        "_id": "5c8ab96f8e9f1585c4a74870"
+      },
+      {
+        "text": "1/2 cup sugar",
+        "weight": 100,
+        "_id": "5c8ab96f8e9f1585c4a7486f"
+      },
+      {
+        "text": "2 small ripe avocados",
+        "weight": 301.5,
+        "_id": "5c8ab96f8e9f1585c4a7486e"
+      },
+      {
+        "text": "Pinch of salt",
+        "weight": 0.75,
+        "_id": "5c8ab96f8e9f1585c4a7486d"
+      },
+      {
+        "text": "2 tablespoons freshly squeezed lime juice",
+        "weight": 30.799999999479265,
+        "_id": "5c8ab96f8e9f1585c4a7486c"
+      }
+    ],
+    "ingredientLines": [
+      "1 cup water",
+      "1/2 cup sugar",
+      "2 small ripe avocados",
+      "Pinch of salt",
+      "2 tablespoons freshly squeezed lime juice"
+    ],
+    "cautions": [
+      "Sulfites"
+    ],
+    "healthLabels": [
+      "Vegan",
+      "Vegetarian",
+      "Peanut-Free",
+      "Tree-Nut-Free",
+      "Alcohol-Free"
+    ],
+    "dietLabels": [
+      
+    ]
+  },
+  {
+    "_id": "5c8ab9d18e9f1585c4a74871",
+    "name": "Roast Chicken With Lemon and Butter",
+    "image": "https://www.edamam.com/web-img/27f/27f8c4ab447d6ac91b57653740956125.jpg",
+    "source": "Epicurious",
+    "url": "https://www.epicurious.com/recipes/food/views/anthony-bourdain-roast-chicken-with-lemon-and-butter",
+    "yield": 4,
+    "calories": 2458.3980490804247,
+    "totalWeight": 1897.679871376369,
+    "totalTime": 0,
+    "__v": 0,
+    "ingredients": [
+      {
+        "text": "1 best-quality chicken (about 2 1/2 pounds), preferably organic",
+        "weight": 1133.980925,
+        "_id": "5c8ab9d18e9f1585c4a7487d"
+      },
+      {
+        "text": "Sea salt to taste",
+        "weight": 11.267285549997313,
+        "_id": "5c8ab9d18e9f1585c4a7487c"
+      },
+      {
+        "text": "Crushed black peppercorns to taste",
+        "weight": 5.633642774998656,
+        "_id": "5c8ab9d18e9f1585c4a7487b"
+      },
+      {
+        "text": "4 tablespoons (1/2 stick) unsalted butter",
+        "weight": 56.8,
+        "_id": "5c8ab9d18e9f1585c4a7487a"
+      },
+      {
+        "text": "10 sprigs fresh thyme",
+        "weight": 30,
+        "_id": "5c8ab9d18e9f1585c4a74879"
+      },
+      {
+        "text": "1 fresh bay leaf",
+        "weight": 0.6,
+        "_id": "5c8ab9d18e9f1585c4a74878"
+      },
+      {
+        "text": "1/2 lemon, cut into 4 wedges",
+        "weight": 29,
+        "_id": "5c8ab9d18e9f1585c4a74877"
+      },
+      {
+        "text": "1 cup dry white wine",
+        "weight": 226,
+        "_id": "5c8ab9d18e9f1585c4a74876"
+      },
+      {
+        "text": "Juice of 1 lemon (about 2 tablespoons)",
+        "weight": 26.499999999551967,
+        "_id": "5c8ab9d18e9f1585c4a74875"
+      },
+      {
+        "text": "1 1/2 cups chicken stock",
+        "weight": 360,
+        "_id": "5c8ab9d18e9f1585c4a74874"
+      },
+      {
+        "text": "1/4 cup finely chopped fresh parsley",
+        "weight": 15,
+        "_id": "5c8ab9d18e9f1585c4a74873"
+      },
+      {
+        "text": "Freshly ground black pepper to taste",
+        "weight": 5.633642774998656,
+        "_id": "5c8ab9d18e9f1585c4a74872"
+      }
+    ],
+    "ingredientLines": [
+      "1 best-quality chicken (about 2 1/2 pounds), preferably organic",
+      "Sea salt to taste",
+      "Crushed black peppercorns to taste",
+      "4 tablespoons (1/2 stick) unsalted butter",
+      "10 sprigs fresh thyme",
+      "1 fresh bay leaf",
+      "1/2 lemon, cut into 4 wedges",
+      "1 cup dry white wine",
+      "Juice of 1 lemon (about 2 tablespoons)",
+      "1 1/2 cups chicken stock",
+      "1/4 cup finely chopped fresh parsley",
+      "Freshly ground black pepper to taste",
+      "Butcher’s twine (optional)"
+    ],
+    "cautions": [
+      "Sulfites"
+    ],
+    "healthLabels": [
+      "Sugar-Conscious",
+      "Peanut-Free",
+      "Tree-Nut-Free"
+    ],
+    "dietLabels": [
+      "Low-Carb"
+    ]
+  },
+  {
+    "_id": "5c8ab9fe8e9f1585c4a74886",
+    "name": "Cherry Tomato Bruschetta Recipe",
+    "image": "https://www.edamam.com/web-img/a5f/a5fa474374d390389513c3dd0fa666a8.jpg",
+    "source": "The Daily Meal",
+    "url": "http://www.thedailymeal.com/cherry-tomato-bruschetta-recipe",
+    "yield": 2,
+    "calories": 878.173312,
+    "totalWeight": 333.4448,
+    "totalTime": 0,
+    "__v": 0,
+    "ingredients": [
+      {
+        "text": "1 box cherry tomatoes, halved",
+        "weight": 15,
+        "_id": "5c8ab9fe8e9f1585c4a7488d"
+      },
+      {
+        "text": "2 sprigs fresh rosemary, finely chopped",
+        "weight": 10,
+        "_id": "5c8ab9fe8e9f1585c4a7488c"
+      },
+      {
+        "text": "1 clove garlic, ran through a press",
+        "weight": 3,
+        "_id": "5c8ab9fe8e9f1585c4a7488b"
+      },
+      {
+        "text": "Salt and pepper, to taste",
+        "weight": 1.968,
+        "_id": "5c8ab9fe8e9f1585c4a7488a"
+      },
+      {
+        "text": "Salt and pepper, to taste",
+        "weight": 0.984,
+        "_id": "5c8ab9fe8e9f1585c4a74889"
+      },
+      {
+        "text": "Olive oil",
+        "weight": 4.4608,
+        "_id": "5c8ab9fe8e9f1585c4a74888"
+      },
+      {
+        "text": "1 fresh baguette (a loaf of crusty ciabatta bread works, too), cut into 1-inch thick slices",
+        "weight": 300,
+        "_id": "5c8ab9fe8e9f1585c4a74887"
+      }
+    ],
+    "ingredientLines": [
+      "1 box cherry tomatoes, halved",
+      "2 sprigs fresh rosemary, finely chopped",
+      "1 clove garlic, ran through a press",
+      "Salt and pepper, to taste",
+      "Olive oil",
+      "1 fresh baguette (a loaf of crusty ciabatta bread works, too), cut into 1-inch thick slices"
+    ],
+    "cautions": [
+      
+    ],
+    "healthLabels": [
+      "Vegan",
+      "Vegetarian",
+      "Peanut-Free",
+      "Tree-Nut-Free",
+      "Alcohol-Free"
+    ],
+    "dietLabels": [
+      "Low-Fat"
+    ]
+  },
+  {
+    "_id": "5c8abaf78e9f1585c4a7489b",
+    "name": "Chicken Soup with Onions and Garlic for the Endless Winter",
+    "image": "https://www.edamam.com/web-img/e60/e60645054a39ca32d02d67dd52d73550.jpg",
+    "source": "Food52",
+    "url": "https://food52.com/recipes/27183-chicken-soup-with-onions-and-garlic-for-the-endless-winter",
+    "yield": 4,
+    "calories": 2812.0913504,
+    "totalWeight": 1675.196185,
+    "totalTime": 0,
+    "__v": 0,
+    "ingredients": [
+      {
+        "text": "1 small chicken or whatever chicken you have frozen for stock (if you use assorted parts, you will want a couple of pounds worth)",
+        "weight": 690,
+        "_id": "5c8abaf78e9f1585c4a748a7"
+      },
+      {
+        "text": "3 scallions, trimmed",
+        "weight": 45,
+        "_id": "5c8abaf78e9f1585c4a748a6"
+      },
+      {
+        "text": "1 bunch cilantro, stalks and roots included (optional: do not scour the city for cilantro with the roots still on; feel free to make without any cilantro)",
+        "weight": 0,
+        "_id": "5c8abaf78e9f1585c4a748a5"
+      },
+      {
+        "text": "1 bunch cilantro, stalks and roots included (optional: do not scour the city for cilantro with the roots still on; feel free to make without any cilantro)",
+        "weight": 15,
+        "_id": "5c8abaf78e9f1585c4a748a4"
+      },
+      {
+        "text": "2 carrots, halved",
+        "weight": 122,
+        "_id": "5c8abaf78e9f1585c4a748a3"
+      },
+      {
+        "text": "8 whole black peppercorns",
+        "weight": 2.4,
+        "_id": "5c8abaf78e9f1585c4a748a2"
+      },
+      {
+        "text": "3 tablespoons fish sauce",
+        "weight": 54,
+        "_id": "5c8abaf78e9f1585c4a748a1"
+      },
+      {
+        "text": "1/2 teaspoon salt",
+        "weight": 3,
+        "_id": "5c8abaf78e9f1585c4a748a0"
+      },
+      {
+        "text": "8 small shallots, or 4 large shallots, peeled and halved",
+        "weight": 320,
+        "_id": "5c8abaf78e9f1585c4a7489f"
+      },
+      {
+        "text": "1 head of garlic, peeled and halved",
+        "weight": 50,
+        "_id": "5c8abaf78e9f1585c4a7489e"
+      },
+      {
+        "text": "1 large onion, finely chopped",
+        "weight": 150,
+        "_id": "5c8abaf78e9f1585c4a7489d"
+      },
+      {
+        "text": "1/2 pound egg noodles (straight wheat noodles are fine, though)",
+        "weight": 226.796185,
+        "_id": "5c8abaf78e9f1585c4a7489c"
+      }
+    ],
+    "ingredientLines": [
+      "1 small chicken or whatever chicken you have frozen for stock (if you use assorted parts, you will want a couple of pounds worth)",
+      "3 scallions, trimmed",
+      "1 bunch cilantro, stalks and roots included (optional: do not scour the city for cilantro with the roots still on; feel free to make without any cilantro)",
+      "2 carrots, halved",
+      "8 whole black peppercorns",
+      "3 tablespoons fish sauce",
+      "1/2 teaspoon salt",
+      "8 small shallots, or 4 large shallots, peeled and halved",
+      "1 head of garlic, peeled and halved",
+      "1 large onion, finely chopped",
+      "1/2 pound egg noodles (straight wheat noodles are fine, though)",
+      "cilantro, chopped (optional)"
+    ],
+    "cautions": [
+      "Shellfish",
+      "Sulfites",
+      "FODMAP"
+    ],
+    "healthLabels": [
+      "Peanut-Free",
+      "Tree-Nut-Free",
+      "Alcohol-Free"
+    ],
+    "dietLabels": [
+      
+    ]
+  },
+  {
+    "_id": "5c8abb2f8e9f1585c4a748a8",
+    "name": "Kaeshi From 'Japanese Soul Cooking'",
+    "image": "https://www.edamam.com/web-img/1c0/1c09d46683ae9b8b8b452412ccfcec81.jpg",
+    "source": "Serious Eats",
+    "url": "http://www.seriouseats.com/recipes/2013/12/kaeshi-from-japanese-soul-cooking-recipe.html",
+    "yield": 12,
+    "calories": 572.5620000000001,
+    "totalWeight": 664.1999999999999,
+    "totalTime": 4320,
+    "__v": 0,
+    "ingredients": [
+      {
+        "text": "2 cups soy sauce",
+        "weight": 510,
+        "_id": "5c8abb2f8e9f1585c4a748ab"
+      },
+      {
+        "text": "1/2 cup mirin",
+        "weight": 116.4,
+        "_id": "5c8abb2f8e9f1585c4a748aa"
+      },
+      {
+        "text": "3 tablespoons sugar",
+        "weight": 37.8,
+        "_id": "5c8abb2f8e9f1585c4a748a9"
+      }
+    ],
+    "ingredientLines": [
+      "2 cups soy sauce",
+      "1/2 cup mirin",
+      "3 tablespoons sugar"
+    ],
+    "cautions": [
+      
+    ],
+    "healthLabels": [
+      "Vegan",
+      "Vegetarian",
+      "Peanut-Free",
+      "Tree-Nut-Free",
+      "Alcohol-Free"
+    ],
+    "dietLabels": [
+      "Low-Fat"
+    ]
+  },
+  {
+    "_id": "5c8abb418e9f1585c4a748ac",
+    "name": "Spicy Buckwheat Soba Noodle Salad",
+    "image": "https://www.edamam.com/web-img/98c/98c25119e0f9f2308a17bcfbfd6ae059.JPG",
+    "source": "Kitchen Daily",
+    "url": "http://www.kitchendaily.com/recipe/spicy-buckwheat-soba-noodle-salad",
+    "yield": 8,
+    "calories": 2288.9324999991,
+    "totalWeight": 1800.5110295611346,
+    "totalTime": 0,
+    "__v": 0,
+    "ingredients": [
+      {
+        "text": "1 package 100% buckwheat soba noodle",
+        "weight": 340,
+        "_id": "5c8abb418e9f1585c4a748b9"
+      },
+      {
+        "text": "1 package of extra firm tofu, cubed",
+        "weight": 324,
+        "_id": "5c8abb418e9f1585c4a748b8"
+      },
+      {
+        "text": "1 small head cabbage, shredded",
+        "weight": 714,
+        "_id": "5c8abb418e9f1585c4a748b7"
+      },
+      {
+        "text": "6 scallion, cut into small pieces",
+        "weight": 90,
+        "_id": "5c8abb418e9f1585c4a748b6"
+      },
+      {
+        "text": "2 Tbsp ginger, diced",
+        "weight": 12,
+        "_id": "5c8abb418e9f1585c4a748b5"
+      },
+      {
+        "text": "2 clove of garlic, diced",
+        "weight": 6,
+        "_id": "5c8abb418e9f1585c4a748b4"
+      },
+      {
+        "text": "1 Tbsp sesame seed",
+        "weight": 9,
+        "_id": "5c8abb418e9f1585c4a748b3"
+      },
+      {
+        "text": "kosher salt to taste",
+        "weight": 10.803066177366809,
+        "_id": "5c8abb418e9f1585c4a748b2"
+      },
+      {
+        "text": "¼ cup soy sauce",
+        "weight": 63.75,
+        "_id": "5c8abb418e9f1585c4a748b1"
+      },
+      {
+        "text": "2 Tbsp honey",
+        "weight": 42,
+        "_id": "5c8abb418e9f1585c4a748b0"
+      },
+      {
+        "text": "½ cup rice vinegar",
+        "weight": 119,
+        "_id": "5c8abb418e9f1585c4a748af"
+      },
+      {
+        "text": "3 Tbsp spicy garlic chili sauce",
+        "weight": 51.18749999913458,
+        "_id": "5c8abb418e9f1585c4a748ae"
+      },
+      {
+        "text": "2 Tbsp water",
+        "weight": 29.573529562,
+        "_id": "5c8abb418e9f1585c4a748ad"
+      }
+    ],
+    "ingredientLines": [
+      "1 package 100% buckwheat soba noodle",
+      "1 package of extra firm tofu, cubed",
+      "1 small head cabbage, shredded",
+      "6 scallion, cut into small pieces",
+      "2 Tbsp ginger, diced",
+      "2 clove of garlic, diced",
+      "1 Tbsp sesame seed",
+      "kosher salt to taste",
+      "¼ cup soy sauce",
+      "2 Tbsp honey",
+      "½ cup rice vinegar",
+      "3 Tbsp spicy garlic chili sauce",
+      "2 Tbsp water"
+    ],
+    "cautions": [
+      "Gluten",
+      "Wheat",
+      "Sulfites"
+    ],
+    "healthLabels": [
+      "Vegetarian",
+      "Peanut-Free",
+      "Tree-Nut-Free",
+      "Alcohol-Free"
+    ],
+    "dietLabels": [
+      
+    ]
+  },
+  {
+    "_id": "5c8abb608e9f1585c4a748ba",
+    "name": "Scallops with Pesto",
+    "image": "https://www.edamam.com/web-img/8c0/8c0f7205d3cbdf97ecf351524a816aa9.jpg",
+    "source": "Saveur",
+    "url": "http://www.saveur.com/article/Recipes/Scallops-with-Pesto-21031265",
+    "yield": 8,
+    "calories": 2073.9657668000004,
+    "totalWeight": 1199.14668,
+    "totalTime": 44,
+    "__v": 0,
+    "ingredients": [
+      {
+        "text": "2 tbsp. pine nuts",
+        "weight": 16.8,
+        "_id": "5c8abb608e9f1585c4a748c3"
+      },
+      {
+        "text": "Salt",
+        "weight": 7.1733600000000015,
+        "_id": "5c8abb608e9f1585c4a748c2"
+      },
+      {
+        "text": "2 cloves garlic, peeled",
+        "weight": 6,
+        "_id": "5c8abb608e9f1585c4a748c1"
+      },
+      {
+        "text": "2 cups packed fresh basil leaves",
+        "weight": 48,
+        "_id": "5c8abb608e9f1585c4a748c0"
+      },
+      {
+        "text": "1⁄2 cup extra-virgin olive oil",
+        "weight": 108,
+        "_id": "5c8abb608e9f1585c4a748bf"
+      },
+      {
+        "text": "2 tbsp. freshly grated parmigiano-reggiano",
+        "weight": 28.36,
+        "_id": "5c8abb608e9f1585c4a748be"
+      },
+      {
+        "text": "Freshly ground black pepper",
+        "weight": 3.5866800000000008,
+        "_id": "5c8abb608e9f1585c4a748bd"
+      },
+      {
+        "text": "24 large sea scallops, muscles removed",
+        "weight": 960,
+        "_id": "5c8abb608e9f1585c4a748bc"
+      },
+      {
+        "text": "2 tbsp. butter",
+        "weight": 28.4,
+        "_id": "5c8abb608e9f1585c4a748bb"
+      }
+    ],
+    "ingredientLines": [
+      "2 tbsp. pine nuts",
+      "Salt",
+      "2 cloves garlic, peeled",
+      "2 cups packed fresh basil leaves",
+      "1⁄2 cup extra-virgin olive oil",
+      "2 tbsp. freshly grated parmigiano-reggiano",
+      "Freshly ground black pepper",
+      "24 large sea scallops, muscles removed",
+      "2 tbsp. butter"
+    ],
+    "cautions": [
+      "Sulfites"
+    ],
+    "healthLabels": [
+      "Sugar-Conscious",
+      "Peanut-Free",
+      "Alcohol-Free"
+    ],
+    "dietLabels": [
+      "Low-Carb"
+    ]
+  },
+  {
+    "_id": "5c8abb778e9f1585c4a748c4",
+    "name": "Vegan Fish Sauce",
+    "image": "https://www.edamam.com/web-img/e0d/e0d0c008e43b4313ecf205324ae595a5.jpg",
+    "source": "Food52",
+    "url": "https://food52.com/recipes/39684-vegan-fish-sauce",
+    "yield": 2,
+    "calories": 185.81600000012006,
+    "totalWeight": 359.016666667667,
+    "totalTime": 0,
+    "__v": 0,
+    "ingredients": [
+      {
+        "text": "3/4 cup water",
+        "weight": 177.75,
+        "_id": "5c8abb778e9f1585c4a748cc"
+      },
+      {
+        "text": "2 tablespoons organic sugar",
+        "weight": 25.2,
+        "_id": "5c8abb778e9f1585c4a748cb"
+      },
+      {
+        "text": "2 tablespoons soy sauce or Bragg’s Liquid Aminos",
+        "weight": 32,
+        "_id": "5c8abb778e9f1585c4a748ca"
+      },
+      {
+        "text": "1 tablespoon distilled vinegar",
+        "weight": 14.9,
+        "_id": "5c8abb778e9f1585c4a748c9"
+      },
+      {
+        "text": "2 tablespoons liquid from a jar of fermented tofu",
+        "weight": 27.49999999953506,
+        "_id": "5c8abb778e9f1585c4a748c8"
+      },
+      {
+        "text": "1 teaspoon wakame powder (recipe below)",
+        "weight": 1.6666666667793801,
+        "_id": "5c8abb778e9f1585c4a748c7"
+      },
+      {
+        "text": "1 teaspoon sea salt",
+        "weight": 4.854166666912875,
+        "_id": "5c8abb778e9f1585c4a748c6"
+      },
+      {
+        "text": "1 cup dried wakame",
+        "weight": 80.00000000135256,
+        "_id": "5c8abb778e9f1585c4a748c5"
+      }
+    ],
+    "ingredientLines": [
+      "3/4 cup water",
+      "2 tablespoons organic sugar",
+      "2 tablespoons soy sauce or Bragg’s Liquid Aminos",
+      "1 tablespoon distilled vinegar",
+      "2 tablespoons liquid from a jar of fermented tofu",
+      "1 teaspoon wakame powder (recipe below)",
+      "1 teaspoon sea salt",
+      "1 cup dried wakame"
+    ],
+    "cautions": [
+      "Gluten",
+      "Wheat",
+      "Sulfites"
+    ],
+    "healthLabels": [
+      "Vegan",
+      "Vegetarian",
+      "Peanut-Free",
+      "Tree-Nut-Free",
+      "Alcohol-Free"
+    ],
+    "dietLabels": [
+      "Low-Fat"
+    ]
+  },
+  {
+    "_id": "5c8abc0c8e9f1585c4a748cd",
+    "name": "Pumpkin Muffins",
+    "image": "https://www.edamam.com/web-img/c52/c52f12244acc3027d7efaa347d071b0b.jpg",
+    "source": "Epicurious",
+    "url": "https://www.epicurious.com/recipes/food/views/pumpkin-muffins-362109",
+    "yield": 13,
+    "calories": 4738.717038288075,
+    "totalWeight": 1699.9857762582205,
+    "totalTime": 0,
+    "__v": 0,
+    "ingredients": [
+      {
+        "text": "Softened unsalted butter, for the pan",
+        "weight": 22.80959605082064,
+        "_id": "5c8abc0c8e9f1585c4a748db"
+      },
+      {
+        "text": "3 2/3 cups pastry flour, sifted",
+        "weight": 502.3333333333333,
+        "_id": "5c8abc0c8e9f1585c4a748da"
+      },
+      {
+        "text": "1 tablespoon plus 1 teaspoon baking powder",
+        "weight": 13.799999999066733,
+        "_id": "5c8abc0c8e9f1585c4a748d9"
+      },
+      {
+        "text": "1 tablespoon plus 1 teaspoon baking powder",
+        "weight": 4.6,
+        "_id": "5c8abc0c8e9f1585c4a748d8"
+      },
+      {
+        "text": "1 teaspoon ground cinnamon",
+        "weight": 2.6,
+        "_id": "5c8abc0c8e9f1585c4a748d7"
+      },
+      {
+        "text": "1/4 teaspoon ground ginger",
+        "weight": 0.45,
+        "_id": "5c8abc0c8e9f1585c4a748d6"
+      },
+      {
+        "text": "1/4 teaspoon freshly grated nutmeg",
+        "weight": 0.55,
+        "_id": "5c8abc0c8e9f1585c4a748d5"
+      },
+      {
+        "text": "1/4 teaspoon fine sea salt",
+        "weight": 1.5,
+        "_id": "5c8abc0c8e9f1585c4a748d4"
+      },
+      {
+        "text": "8 tablespoons (1 stick) unsalted butter, chilled and cut into 1/2-inch cubes",
+        "weight": 113.6,
+        "_id": "5c8abc0c8e9f1585c4a748d3"
+      },
+      {
+        "text": "1 1/3 cups superfine sugar",
+        "weight": 256,
+        "_id": "5c8abc0c8e9f1585c4a748d2"
+      },
+      {
+        "text": "4 large eggs, at room temperature, beaten",
+        "weight": 200,
+        "_id": "5c8abc0c8e9f1585c4a748d1"
+      },
+      {
+        "text": "One 15-ounce can solid-pack pumpkin",
+        "weight": 425.242846875,
+        "_id": "5c8abc0c8e9f1585c4a748d0"
+      },
+      {
+        "text": "1 cup seedless golden or dark raisins",
+        "weight": 145,
+        "_id": "5c8abc0c8e9f1585c4a748cf"
+      },
+      {
+        "text": "1/4 cup hulled unsalted sunflower seeds",
+        "weight": 11.5,
+        "_id": "5c8abc0c8e9f1585c4a748ce"
+      }
+    ],
+    "ingredientLines": [
+      "Softened unsalted butter, for the pan",
+      "3 2/3 cups pastry flour, sifted",
+      "1 tablespoon plus 1 teaspoon baking powder",
+      "1 teaspoon ground cinnamon",
+      "1/4 teaspoon ground ginger",
+      "1/4 teaspoon freshly grated nutmeg",
+      "1/4 teaspoon fine sea salt",
+      "8 tablespoons (1 stick) unsalted butter, chilled and cut into 1/2-inch cubes",
+      "1 1/3 cups superfine sugar",
+      "4 large eggs, at room temperature, beaten",
+      "One 15-ounce can solid-pack pumpkin",
+      "1 cup seedless golden or dark raisins",
+      "1/4 cup hulled unsalted sunflower seeds"
+    ],
+    "cautions": [
+      "Sulfites"
+    ],
+    "healthLabels": [
+      "Vegetarian",
+      "Peanut-Free",
+      "Tree-Nut-Free",
+      "Alcohol-Free"
+    ],
+    "dietLabels": [
+      
+    ]
+  },
+  {
+    "_id": "5c8abc918e9f1585c4a748dc",
+    "name": "Charles Phan's Fried Shallots",
+    "image": "https://www.edamam.com/web-img/23b/23b29b430bdfd43be773e1054253848e.jpg",
+    "source": "Serious Eats",
+    "url": "http://www.seriouseats.com/recipes/2013/01/charles-phans-fried-shallots.html",
+    "yield": 4,
+    "calories": 654.7200000110694,
+    "totalWeight": 368.0000000062218,
+    "totalTime": 30,
+    "__v": 0,
+    "ingredients": [
+      {
+        "text": "2 cups thinly sliced shallots (about 4 large shallots)",
+        "weight": 320.00000000541024,
+        "_id": "5c8abc918e9f1585c4a748de"
+      },
+      {
+        "text": "2 cups canola oil",
+        "weight": 436,
+        "_id": "5c8abc918e9f1585c4a748dd"
+      }
+    ],
+    "ingredientLines": [
+      "2 cups thinly sliced shallots (about 4 large shallots)",
+      "2 cups canola oil"
+    ],
+    "cautions": [
+      
+    ],
+    "healthLabels": [
+      "Vegan",
+      "Vegetarian",
+      "Peanut-Free",
+      "Tree-Nut-Free",
+      "Alcohol-Free"
+    ],
+    "dietLabels": [
+      
+    ]
+  },
+  {
+    "_id": "5c8abd9a8e9f1585c4a748df",
+    "name": "Crunchy Almond Butter Meringue with Berries and Cream",
+    "image": "https://www.edamam.com/web-img/3b2/3b29b205f9de47b40e058f6685946cac.jpg",
+    "source": "Food52",
+    "url": "https://food52.com/recipes/37905-crunchy-almond-butter-meringue-with-berries-and-cream",
+    "yield": 10,
+    "calories": 3200.8894244818534,
+    "totalWeight": 1259.2039062503748,
+    "totalTime": 0,
+    "__v": 0,
+    "ingredients": [
+      {
+        "text": "1/3 cup well-stirred, smooth or crunchy roasted almond butter (see headnote), at room temperature",
+        "weight": 83.33333333333333,
+        "_id": "5c8abd9a8e9f1585c4a748e8"
+      },
+      {
+        "text": "1 pinch salt, as needed for nut butter",
+        "weight": 0.29557291704146077,
+        "_id": "5c8abd9a8e9f1585c4a748e7"
+      },
+      {
+        "text": "3 large egg whites, at room temperature",
+        "weight": 99,
+        "_id": "5c8abd9a8e9f1585c4a748e6"
+      },
+      {
+        "text": "1/8 teaspoon cream of tartar",
+        "weight": 0.375,
+        "_id": "5c8abd9a8e9f1585c4a748e5"
+      },
+      {
+        "text": "2/3 cup (130 grams) sugar plus 1 tablespoon sugar, divided",
+        "weight": 130,
+        "_id": "5c8abd9a8e9f1585c4a748e4"
+      },
+      {
+        "text": "1 1/2 pints bush berries such as blackberries, raspberries, or strawberries, or a combination",
+        "weight": 431.9999999999999,
+        "_id": "5c8abd9a8e9f1585c4a748e3"
+      },
+      {
+        "text": "1 cup heavy whipping cream",
+        "weight": 480,
+        "_id": "5c8abd9a8e9f1585c4a748e2"
+      },
+      {
+        "text": "1 teaspoon pure vanilla extract",
+        "weight": 4.2,
+        "_id": "5c8abd9a8e9f1585c4a748e1"
+      },
+      {
+        "text": "1/4 cup (30 grams) sliced or coarsely chopped almonds",
+        "weight": 30,
+        "_id": "5c8abd9a8e9f1585c4a748e0"
+      }
+    ],
+    "ingredientLines": [
+      "1/3 cup well-stirred, smooth or crunchy roasted almond butter (see headnote), at room temperature",
+      "1 pinch salt, as needed for nut butter",
+      "3 large egg whites, at room temperature",
+      "1/8 teaspoon cream of tartar",
+      "2/3 cup (130 grams) sugar plus 1 tablespoon sugar, divided",
+      "1 1/2 pints bush berries such as blackberries, raspberries, or strawberries, or a combination",
+      "1 cup heavy whipping cream",
+      "1 teaspoon pure vanilla extract",
+      "1/4 cup (30 grams) sliced or coarsely chopped almonds"
+    ],
+    "cautions": [
+      "Sulfites",
+      "FODMAP"
+    ],
+    "healthLabels": [
+      "Vegetarian",
+      "Alcohol-Free"
+    ],
+    "dietLabels": [
+      
+    ]
+  },
+  {
+    "_id": "5c8abe818e9f1585c4a748e9",
+    "name": "Fresh Fig Ice Cream",
+    "image": "https://www.edamam.com/web-img/ce7/ce742a3eb188e89db8ad8a4ab8f5d4f9.jpg",
+    "source": "Serious Eats",
+    "url": "http://www.seriouseats.com/recipes/2011/07/fresh-fig-ice-cream-recipe.html",
+    "yield": 8,
+    "calories": 2138.300792760815,
+    "totalWeight": 1494.6408757955262,
+    "totalTime": 337,
+    "__v": 0,
+    "ingredients": [
+      {
+        "text": "2 pounds (1 kg) fresh figs (about 20)",
+        "weight": 907.18474,
+        "_id": "5c8abe818e9f1585c4a748ef"
+      },
+      {
+        "text": "1/2 cup (125 ml) water",
+        "weight": 125,
+        "_id": "5c8abe818e9f1585c4a748ee"
+      },
+      {
+        "text": "1 lemon, preferably unsprayed",
+        "weight": 58,
+        "_id": "5c8abe818e9f1585c4a748ed"
+      },
+      {
+        "text": "3/4 cup (150 g) sugar",
+        "weight": 150,
+        "_id": "5c8abe818e9f1585c4a748ec"
+      },
+      {
+        "text": "1 cup (250 ml) heavy cream",
+        "weight": 251.91446912873033,
+        "_id": "5c8abe818e9f1585c4a748eb"
+      },
+      {
+        "text": "1/2 teaspoon freshly squeezed lemon juice, or more to taste",
+        "weight": 2.541666666795583,
+        "_id": "5c8abe818e9f1585c4a748ea"
+      }
+    ],
+    "ingredientLines": [
+      "2 pounds (1 kg) fresh figs (about 20)",
+      "1/2 cup (125 ml) water",
+      "1 lemon, preferably unsprayed",
+      "3/4 cup (150 g) sugar",
+      "1 cup (250 ml) heavy cream",
+      "1/2 teaspoon freshly squeezed lemon juice, or more to taste"
+    ],
+    "cautions": [
+      "Sulfites"
+    ],
+    "healthLabels": [
+      "Vegetarian",
+      "Peanut-Free",
+      "Tree-Nut-Free",
+      "Alcohol-Free"
+    ],
+    "dietLabels": [
+      
+    ]
+  },
+  {
+    "_id": "5c8abe918e9f1585c4a748f0",
+    "name": "Grilled Butterflied Leg of Lamb with Fresh Mint Sauce",
+    "image": "https://www.edamam.com/web-img/3c0/3c0127a6a528de4ba9c8b84f72bbbf4a.jpg",
+    "source": "Saveur",
+    "url": "http://www.saveur.com/article/Recipes/Grilled-Butterflied-Leg-of-Lamb-with-Fresh-Mint-Sauce",
+    "yield": 8,
+    "calories": 8038.391411840702,
+    "totalWeight": 4287.573137548001,
+    "totalTime": 62,
+    "__v": 0,
+    "ingredients": [
+      {
+        "text": "1 7-lb. leg of lamb, butterflied and cut into 3 or 4 pieces of similar thickness",
+        "weight": 3175.1465900000003,
+        "_id": "5c8abe918e9f1585c4a748fb"
+      },
+      {
+        "text": "2 peeled, sliced onions",
+        "weight": 250,
+        "_id": "5c8abe918e9f1585c4a748fa"
+      },
+      {
+        "text": "8 crushed, peeled cloves garlic",
+        "weight": 24,
+        "_id": "5c8abe918e9f1585c4a748f9"
+      },
+      {
+        "text": "Leaves from 10 sprigs each fresh thyme, chervil, and oregano",
+        "weight": 0,
+        "_id": "5c8abe918e9f1585c4a748f8"
+      },
+      {
+        "text": "2 cups dry white wine",
+        "weight": 452,
+        "_id": "5c8abe918e9f1585c4a748f7"
+      },
+      {
+        "text": "1 cup extra-virgin olive oil",
+        "weight": 216,
+        "_id": "5c8abe918e9f1585c4a748f6"
+      },
+      {
+        "text": "Salt and freshly ground black pepper",
+        "weight": 25.51827954,
+        "_id": "5c8abe918e9f1585c4a748f5"
+      },
+      {
+        "text": "Salt and freshly ground black pepper",
+        "weight": 12.75913977,
+        "_id": "5c8abe918e9f1585c4a748f4"
+      },
+      {
+        "text": "1 tightly packed cup fresh mint leaves",
+        "weight": 91.2,
+        "_id": "5c8abe918e9f1585c4a748f3"
+      },
+      {
+        "text": "1 tsp. red wine vinegar 1⁄2 tsp. sugar",
+        "weight": 4.2,
+        "_id": "5c8abe918e9f1585c4a748f2"
+      },
+      {
+        "text": "3 tbsp. extra-virgin olive oil",
+        "weight": 40.5,
+        "_id": "5c8abe918e9f1585c4a748f1"
+      }
+    ],
+    "ingredientLines": [
+      "1 7-lb. leg of lamb, butterflied and cut into 3 or 4 pieces of similar thickness",
+      "2 peeled, sliced onions",
+      "8 crushed, peeled cloves garlic",
+      "Leaves from 10 sprigs each fresh thyme, chervil, and oregano",
+      "2 cups dry white wine",
+      "1 cup extra-virgin olive oil",
+      "Salt and freshly ground black pepper",
+      "1 tightly packed cup fresh mint leaves",
+      "1 tsp. red wine vinegar 1⁄2 tsp. sugar",
+      "3 tbsp. extra-virgin olive oil"
+    ],
+    "cautions": [
+      
+    ],
+    "healthLabels": [
+      "Peanut-Free",
+      "Tree-Nut-Free"
+    ],
+    "dietLabels": [
+      
+    ]
+  },
+  {
+    "_id": "5c8abebc8e9f1585c4a748fc",
+    "name": "Sweet Rice Flour Porridge from 'The Kimchi Cookbook'",
+    "image": "https://www.edamam.com/web-img/68f/68fa11366cd5ddc3098b100d6f5467c8.jpg",
+    "source": "Serious Eats",
+    "url": "http://www.seriouseats.com/recipes/2013/01/sweet-rice-flour-porridge-from-the-kimchi-cookbook-recipe.html",
+    "yield": 2,
+    "calories": 72.28499999877788,
+    "totalWeight": 256.7499999996661,
+    "totalTime": 20,
+    "__v": 0,
+    "ingredients": [
+      {
+        "text": "1 cup water, divided",
+        "weight": 237,
+        "_id": "5c8abebc8e9f1585c4a748fe"
+      },
+      {
+        "text": "2 tablespoons sweet rice flour",
+        "weight": 19.749999999666088,
+        "_id": "5c8abebc8e9f1585c4a748fd"
+      }
+    ],
+    "ingredientLines": [
+      "1 cup water, divided",
+      "2 tablespoons sweet rice flour"
+    ],
+    "cautions": [
+      
+    ],
+    "healthLabels": [
+      "Sugar-Conscious",
+      "Vegan",
+      "Vegetarian",
+      "Peanut-Free",
+      "Tree-Nut-Free",
+      "Alcohol-Free"
+    ],
+    "dietLabels": [
+      "Low-Fat"
+    ]
+  },
+  {
+    "_id": "5c8abed28e9f1585c4a748ff",
+    "name": "Lemon Bostock with Roasted Concord Grapes",
+    "image": "https://www.edamam.com/web-img/3c7/3c775338150c4ec19e50bd1c1d5ace2c.jpg",
+    "source": "Food52",
+    "url": "https://food52.com/recipes/38292-lemon-bostock-with-roasted-concord-grapes",
+    "yield": 8,
+    "calories": 3829.3078879000004,
+    "totalWeight": 1421.27987,
+    "totalTime": 0,
+    "__v": 0,
+    "ingredients": [
+      {
+        "text": "1 3/4 cups sliced almonds, divided",
+        "weight": 161,
+        "_id": "5c8abed28e9f1585c4a7490e"
+      },
+      {
+        "text": "1/2 cup sugar",
+        "weight": 100,
+        "_id": "5c8abed28e9f1585c4a7490d"
+      },
+      {
+        "text": "1 pinch salt",
+        "weight": 0.75,
+        "_id": "5c8abed28e9f1585c4a7490c"
+      },
+      {
+        "text": "2 large eggs",
+        "weight": 100,
+        "_id": "5c8abed28e9f1585c4a7490b"
+      },
+      {
+        "text": "1/2 cup unsalted butter, at room temperature",
+        "weight": 113.5,
+        "_id": "5c8abed28e9f1585c4a7490a"
+      },
+      {
+        "text": "1 tablespoon brandy",
+        "weight": 12,
+        "_id": "5c8abed28e9f1585c4a74909"
+      },
+      {
+        "text": "1/8 to 1/4 teaspoons pure almond extract",
+        "weight": 0.7875000000000001,
+        "_id": "5c8abed28e9f1585c4a74908"
+      },
+      {
+        "text": "1/4 cup water",
+        "weight": 59.25,
+        "_id": "5c8abed28e9f1585c4a74907"
+      },
+      {
+        "text": "1/4 cup sugar",
+        "weight": 50,
+        "_id": "5c8abed28e9f1585c4a74906"
+      },
+      {
+        "text": "1 lemon, zested and juiced",
+        "weight": 58,
+        "_id": "5c8abed28e9f1585c4a74905"
+      },
+      {
+        "text": "6 to 8 slices best-quality brioche or challah, 1/2- to 3/4-inch thick",
+        "weight": 280,
+        "_id": "5c8abed28e9f1585c4a74904"
+      },
+      {
+        "text": "1 pound Concord grapes, rinsed, patted dry, and split in half with seeds removed",
+        "weight": 453.59237,
+        "_id": "5c8abed28e9f1585c4a74903"
+      },
+      {
+        "text": "2 teaspoons lemon zest",
+        "weight": 4,
+        "_id": "5c8abed28e9f1585c4a74902"
+      },
+      {
+        "text": "2 tablespoons unsalted butter, melted",
+        "weight": 28.4,
+        "_id": "5c8abed28e9f1585c4a74901"
+      },
+      {
+        "text": "Concord grape jam (I used Santa Cruz Organic brand)",
+        "weight": 0,
+        "_id": "5c8abed28e9f1585c4a74900"
+      }
+    ],
+    "ingredientLines": [
+      "1 3/4 cups sliced almonds, divided",
+      "1/2 cup sugar",
+      "1 pinch salt",
+      "2 large eggs",
+      "1/2 cup unsalted butter, at room temperature",
+      "1 tablespoon brandy",
+      "1/8 to 1/4 teaspoons pure almond extract",
+      "1/4 cup water",
+      "1/4 cup sugar",
+      "1 lemon, zested and juiced",
+      "6 to 8 slices best-quality brioche or challah, 1/2- to 3/4-inch thick",
+      "1 pound Concord grapes, rinsed, patted dry, and split in half with seeds removed",
+      "2 teaspoons lemon zest",
+      "2 tablespoons unsalted butter, melted",
+      "Concord grape jam (I used Santa Cruz Organic brand)"
+    ],
+    "cautions": [
+      "Milk",
+      "Sulfites",
+      "FODMAP"
+    ],
+    "healthLabels": [
+      "Vegetarian",
+      "Peanut-Free"
+    ],
+    "dietLabels": [
+      
+    ]
+  },
+  {
+    "_id": "5c8abee78e9f1585c4a7490f",
+    "name": "Warm Summer Shrimp Salad",
+    "image": "https://www.edamam.com/web-img/ddf/ddf3f4837a66e0adf6b421727d0beb28.jpg",
+    "source": "Food52",
+    "url": "https://food52.com/recipes/14334-warm-summer-shrimp-salad",
+    "yield": 6,
+    "calories": 1652.4186654000005,
+    "totalWeight": 2918.8679611563425,
+    "totalTime": 0,
+    "__v": 0,
+    "ingredients": [
+      {
+        "text": "2 pounds large shrimp (21/25 count), peeled and deveined, shells reserved",
+        "weight": 907.18474,
+        "_id": "5c8abee78e9f1585c4a7491a"
+      },
+      {
+        "text": "2 tablespoons coarse salt",
+        "weight": 29.124999999507587,
+        "_id": "5c8abee78e9f1585c4a74919"
+      },
+      {
+        "text": "freshly ground white pepper",
+        "weight": 0,
+        "_id": "5c8abee78e9f1585c4a74918"
+      },
+      {
+        "text": "4 cups water",
+        "weight": 948,
+        "_id": "5c8abee78e9f1585c4a74917"
+      },
+      {
+        "text": "6 ears fresh sweet corn, kernels scraped (about 3 cups)",
+        "weight": 435,
+        "_id": "5c8abee78e9f1585c4a74916"
+      },
+      {
+        "text": "1 tablespoon corn oil, preferably unrefined, or pure olive oil",
+        "weight": 13.5,
+        "_id": "5c8abee78e9f1585c4a74915"
+      },
+      {
+        "text": "2-3 medium to large tomatoes, preferably heirloom, cored and chopped",
+        "weight": 384.375,
+        "_id": "5c8abee78e9f1585c4a74914"
+      },
+      {
+        "text": "2 lemons (finely grated zest and juice of 1, and 1 quartered)",
+        "weight": 116,
+        "_id": "5c8abee78e9f1585c4a74913"
+      },
+      {
+        "text": "1/4 cup mayonnaise, or to taste",
+        "weight": 57.75,
+        "_id": "5c8abee78e9f1585c4a74912"
+      },
+      {
+        "text": "1 small bunch basil leaves, chopped",
+        "weight": 37.5,
+        "_id": "5c8abee78e9f1585c4a74911"
+      },
+      {
+        "text": "1/2 cup loosely packed microgreens or arugula",
+        "weight": 16.5,
+        "_id": "5c8abee78e9f1585c4a74910"
+      }
+    ],
+    "ingredientLines": [
+      "2 pounds large shrimp (21/25 count), peeled and deveined, shells reserved",
+      "2 tablespoons coarse salt",
+      "freshly ground white pepper",
+      "4 cups water",
+      "6 ears fresh sweet corn, kernels scraped (about 3 cups)",
+      "1 tablespoon corn oil, preferably unrefined, or pure olive oil",
+      "2-3 medium to large tomatoes, preferably heirloom, cored and chopped",
+      "2 lemons (finely grated zest and juice of 1, and 1 quartered)",
+      "1/4 cup mayonnaise, or to taste",
+      "1 small bunch basil leaves, chopped",
+      "1/2 cup loosely packed microgreens or arugula"
+    ],
+    "cautions": [
+      "Sulfites"
+    ],
+    "healthLabels": [
+      "Peanut-Free",
+      "Tree-Nut-Free",
+      "Alcohol-Free"
+    ],
+    "dietLabels": [
+      
+    ]
+  },
+  {
+    "_id": "5c8abf058e9f1585c4a7491b",
+    "name": "Creamed Cashews From 'Afro-Vegan'",
+    "image": "https://www.edamam.com/web-img/208/2082d355aa0c33ea464cf4fed330994f.jpg",
+    "source": "Serious Eats",
+    "url": "http://www.seriouseats.com/recipes/2014/05/creamed-cashews-from-afro-vegan.html",
+    "yield": 4,
+    "calories": 774.2,
+    "totalWeight": 258.5,
+    "totalTime": 1440,
+    "__v": 0,
+    "ingredients": [
+      {
+        "text": "1 cup raw cashews, soaked in water overnight and drained well",
+        "weight": 140,
+        "_id": "5c8abf058e9f1585c4a7491d"
+      },
+      {
+        "text": "1/2 cup water",
+        "weight": 118.5,
+        "_id": "5c8abf058e9f1585c4a7491c"
+      }
+    ],
+    "ingredientLines": [
+      "1 cup raw cashews, soaked in water overnight and drained well",
+      "1/2 cup water"
+    ],
+    "cautions": [
+      
+    ],
+    "healthLabels": [
+      "Sugar-Conscious",
+      "Vegan",
+      "Vegetarian",
+      "Peanut-Free",
+      "Alcohol-Free"
+    ],
+    "dietLabels": [
+      "Low-Carb"
+    ]
+  },
+  {
+    "_id": "5c8abf418e9f1585c4a74923",
+    "name": "Charles Phan's Spicy Soy Sauce",
+    "image": "https://www.edamam.com/web-img/a16/a16bde874804e2df5af19f3f97b7c99d.jpg",
+    "source": "Serious Eats",
+    "url": "http://www.seriouseats.com/recipes/2013/01/charles-phans-spicy-soy-sauce-recipe.html",
+    "yield": 3,
+    "calories": 667.521,
+    "totalWeight": 352.2,
+    "totalTime": 5,
+    "__v": 0,
+    "ingredients": [
+      {
+        "text": "3/4 cup sugar",
+        "weight": 150,
+        "_id": "5c8abf418e9f1585c4a74927"
+      },
+      {
+        "text": "1/2 cup light soy sauce",
+        "weight": 127.5,
+        "_id": "5c8abf418e9f1585c4a74926"
+      },
+      {
+        "text": "3 tablespoons distilled white vinegar",
+        "weight": 44.7,
+        "_id": "5c8abf418e9f1585c4a74925"
+      },
+      {
+        "text": "2 tablespoons roasted chile paste",
+        "weight": 30,
+        "_id": "5c8abf418e9f1585c4a74924"
+      }
+    ],
+    "ingredientLines": [
+      "3/4 cup sugar",
+      "1/2 cup light soy sauce",
+      "3 tablespoons distilled white vinegar",
+      "2 tablespoons roasted chile paste"
+    ],
+    "cautions": [
+      "Gluten",
+      "Wheat",
+      "Sulfites"
+    ],
+    "healthLabels": [
+      "Vegan",
+      "Vegetarian",
+      "Peanut-Free",
+      "Tree-Nut-Free",
+      "Alcohol-Free"
+    ],
+    "dietLabels": [
+      "Low-Fat"
+    ]
+  },
+  {
+    "_id": "5c8abf998e9f1585c4a74928",
+    "name": "Chocolate Peanut Butter Pretzel Cupcakes",
+    "image": "https://www.edamam.com/web-img/94e/94ef94f0862be964704a6cf3390a2f02.jpg",
+    "source": "Food52",
+    "url": "https://food52.com/recipes/24430-chocolate-peanut-butter-pretzel-cupcakes",
+    "yield": 24,
+    "calories": 6673.994833333332,
+    "totalWeight": 1791.5,
+    "totalTime": 0,
+    "__v": 0,
+    "ingredients": [
+      {
+        "text": "3/4 cup cocoa powder",
+        "weight": 64.5,
+        "_id": "5c8abf998e9f1585c4a7493c"
+      },
+      {
+        "text": "2/3 cup scalding hot coffee",
+        "weight": 158,
+        "_id": "5c8abf998e9f1585c4a7493b"
+      },
+      {
+        "text": "2/3 cup buttermilk",
+        "weight": 163.33333333333331,
+        "_id": "5c8abf998e9f1585c4a7493a"
+      },
+      {
+        "text": "2/3 cup canola oil",
+        "weight": 145.33333333333331,
+        "_id": "5c8abf998e9f1585c4a74939"
+      },
+      {
+        "text": "1 teaspoon vanilla extract",
+        "weight": 4.2,
+        "_id": "5c8abf998e9f1585c4a74938"
+      },
+      {
+        "text": "1 egg",
+        "weight": 43,
+        "_id": "5c8abf998e9f1585c4a74937"
+      },
+      {
+        "text": "1 egg yolk",
+        "weight": 13.466666666666667,
+        "_id": "5c8abf998e9f1585c4a74936"
+      },
+      {
+        "text": "1/2 teaspoon kosher salt",
+        "weight": 2.4270833334564377,
+        "_id": "5c8abf998e9f1585c4a74935"
+      },
+      {
+        "text": "1 1/3 cups all purpose flour",
+        "weight": 166.66666666666666,
+        "_id": "5c8abf998e9f1585c4a74934"
+      },
+      {
+        "text": "1 3/4 cups sugar",
+        "weight": 350,
+        "_id": "5c8abf998e9f1585c4a74933"
+      },
+      {
+        "text": "3/4 teaspoon baking powder",
+        "weight": 3.4499999999999997,
+        "_id": "5c8abf998e9f1585c4a74932"
+      },
+      {
+        "text": "1/2 teaspoon baking soda",
+        "weight": 2.3,
+        "_id": "5c8abf998e9f1585c4a74931"
+      },
+      {
+        "text": "1 recipe French Buttercream or American Frosting",
+        "weight": 0,
+        "_id": "5c8abf998e9f1585c4a74930"
+      },
+      {
+        "text": "1/2 cup all-natural peanut butter",
+        "weight": 129,
+        "_id": "5c8abf998e9f1585c4a7492f"
+      },
+      {
+        "text": "1 teaspoon kosher salt",
+        "weight": 4.854166666912875,
+        "_id": "5c8abf998e9f1585c4a7492e"
+      },
+      {
+        "text": "1/4 cup heavy cream",
+        "weight": 59.5,
+        "_id": "5c8abf998e9f1585c4a7492d"
+      },
+      {
+        "text": "1/4 cup semisweet chocolate, chopped",
+        "weight": 43.25,
+        "_id": "5c8abf998e9f1585c4a7492c"
+      },
+      {
+        "text": "pinch sea salt",
+        "weight": 0.30338541705136723,
+        "_id": "5c8abf998e9f1585c4a7492b"
+      },
+      {
+        "text": "3/4 cup roasted peanuts",
+        "weight": 109.5,
+        "_id": "5c8abf998e9f1585c4a7492a"
+      },
+      {
+        "text": "1 1/2 cups pretzels",
+        "weight": 336,
+        "_id": "5c8abf998e9f1585c4a74929"
+      }
+    ],
+    "ingredientLines": [
+      "3/4 cup cocoa powder",
+      "2/3 cup scalding hot coffee",
+      "2/3 cup buttermilk",
+      "2/3 cup canola oil",
+      "1 teaspoon vanilla extract",
+      "1 egg",
+      "1 egg yolk",
+      "1/2 teaspoon kosher salt",
+      "1 1/3 cups all purpose flour",
+      "1 3/4 cups sugar",
+      "3/4 teaspoon baking powder",
+      "1/2 teaspoon baking soda",
+      "1 recipe French Buttercream or American Frosting",
+      "1/2 cup all-natural peanut butter",
+      "1 teaspoon kosher salt",
+      "1/4 cup heavy cream",
+      "1/4 cup semisweet chocolate, chopped",
+      "pinch sea salt",
+      "3/4 cup roasted peanuts",
+      "1 1/2 cups pretzels"
+    ],
+    "cautions": [
+      "Sulfites"
+    ],
+    "healthLabels": [
+      "Vegetarian",
+      "Tree-Nut-Free",
+      "Alcohol-Free"
+    ],
+    "dietLabels": [
+      
+    ]
+  },
+  {
+    "_id": "5c8abfd78e9f1585c4a74943",
+    "name": "Charles Phan's Pickled Carrots",
+    "image": "https://www.edamam.com/web-img/075/075d46ff1eb4387dc149c1e6da8dab6f.jpg",
+    "source": "Serious Eats",
+    "url": "http://www.seriouseats.com/recipes/2013/01/charles-phans-pickled-carrots.html",
+    "yield": 2,
+    "calories": 229.22,
+    "totalWeight": 171.41004267506065,
+    "totalTime": 30,
+    "__v": 0,
+    "ingredients": [
+      {
+        "text": "1/4 cup distilled white vinegar",
+        "weight": 59.5,
+        "_id": "5c8abfd78e9f1585c4a74947"
+      },
+      {
+        "text": "1/4 cup sugar",
+        "weight": 50,
+        "_id": "5c8abfd78e9f1585c4a74946"
+      },
+      {
+        "text": "1/4 teaspoon kosher salt",
+        "weight": 1.2135416667282188,
+        "_id": "5c8abfd78e9f1585c4a74945"
+      },
+      {
+        "text": "1/2 cup peeled and finely julienned carrots",
+        "weight": 61,
+        "_id": "5c8abfd78e9f1585c4a74944"
+      }
+    ],
+    "ingredientLines": [
+      "1/4 cup distilled white vinegar",
+      "1/4 cup sugar",
+      "1/4 teaspoon kosher salt",
+      "1/2 cup peeled and finely julienned carrots"
+    ],
+    "cautions": [
+      
+    ],
+    "healthLabels": [
+      "Vegan",
+      "Vegetarian",
+      "Peanut-Free",
+      "Tree-Nut-Free",
+      "Alcohol-Free"
+    ],
+    "dietLabels": [
+      "Low-Fat"
+    ]
+  },
+  {
+    "_id": "5c8abfe78e9f1585c4a74948",
+    "name": "Charleston Hominy from 'The Lee Bros. Charleston Kitchen'",
+    "image": "https://www.edamam.com/web-img/e24/e246d01bbd2533e157f173f88db2d07d.jpg",
+    "source": "Serious Eats",
+    "url": "http://www.seriouseats.com/recipes/2013/05/charleston-hominy-from-the-lee-bros-charleston-kitchen-recipe.html",
+    "yield": 6,
+    "calories": 1083.571172,
+    "totalWeight": 677.909166226988,
+    "totalTime": 45,
+    "__v": 0,
+    "ingredients": [
+      {
+        "text": "2 cups whole milk",
+        "weight": 488,
+        "_id": "5c8abfe78e9f1585c4a7494d"
+      },
+      {
+        "text": "1 cup stone-ground coarse grits",
+        "weight": 156,
+        "_id": "5c8abfe78e9f1585c4a7494c"
+      },
+      {
+        "text": "2 tablespoons unsalted butter",
+        "weight": 28.4,
+        "_id": "5c8abfe78e9f1585c4a7494b"
+      },
+      {
+        "text": "Kosher salt and freshly ground black pepper",
+        "weight": 4.0344,
+        "_id": "5c8abfe78e9f1585c4a7494a"
+      },
+      {
+        "text": "Kosher salt and freshly ground black pepper",
+        "weight": 2.0172,
+        "_id": "5c8abfe78e9f1585c4a74949"
+      }
+    ],
+    "ingredientLines": [
+      "2 cups whole milk",
+      "1 cup stone-ground coarse grits",
+      "2 tablespoons unsalted butter",
+      "Kosher salt and freshly ground black pepper"
+    ],
+    "cautions": [
+      "Sulfites"
+    ],
+    "healthLabels": [
+      "Vegetarian",
+      "Peanut-Free",
+      "Tree-Nut-Free",
+      "Alcohol-Free"
+    ],
+    "dietLabels": [
+      "Balanced"
+    ]
+  },
+  {
+    "_id": "5c911774bb503237f48ad147",
+    "name": "Charles Phan's Pickled Carrots",
+    "image": "https://www.edamam.com/web-img/075/075d46ff1eb4387dc149c1e6da8dab6f.jpg",
+    "source": "Serious Eats",
+    "url": "http://www.seriouseats.com/recipes/2013/01/charles-phans-pickled-carrots.html",
+    "yield": 2,
+    "calories": 229.22,
+    "totalWeight": 171.41004267506065,
+    "totalTime": 30,
+    "__v": 0,
+    "ingredients": [
+      {
+        "text": "1/4 cup distilled white vinegar",
+        "weight": 59.5,
+        "_id": "5c911774bb503237f48ad14b"
+      },
+      {
+        "text": "1/4 cup sugar",
+        "weight": 50,
+        "_id": "5c911774bb503237f48ad14a"
+      },
+      {
+        "text": "1/4 teaspoon kosher salt",
+        "weight": 1.2135416667282188,
+        "_id": "5c911774bb503237f48ad149"
+      },
+      {
+        "text": "1/2 cup peeled and finely julienned carrots",
+        "weight": 61,
+        "_id": "5c911774bb503237f48ad148"
+      }
+    ],
+    "ingredientLines": [
+      "1/4 cup distilled white vinegar",
+      "1/4 cup sugar",
+      "1/4 teaspoon kosher salt",
+      "1/2 cup peeled and finely julienned carrots"
+    ],
+    "cautions": [
+      
+    ],
+    "healthLabels": [
+      "Vegan",
+      "Vegetarian",
+      "Peanut-Free",
+      "Tree-Nut-Free",
+      "Alcohol-Free"
+    ],
+    "dietLabels": [
+      "Low-Fat"
+    ]
+  }
+]
